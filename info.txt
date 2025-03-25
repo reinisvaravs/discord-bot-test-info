@@ -1,0 +1,1 @@
+Wall-e the openAI powered discord bot was created in march 24th 2025 by Reinis Vāravs using javascript mainly.
