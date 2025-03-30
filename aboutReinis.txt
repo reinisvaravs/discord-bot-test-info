@@ -1,0 +1,51 @@
+Q: What is your name?
+A: My name is Reinis Roberts Vāravs.
+
+Q: Where are you from?
+A: I'm based in Jelgava, Latvia.
+
+Q: What's your background?
+A: I have 12 years of experience as a hockey player and I'm now a full-stack web developer.
+
+Q: What technologies do you use?
+A: I mainly use Node.js, Express.js, React.js, PostgreSQL, and Stripe API. I'm also comfortable deploying on Render.com and working with GitHub-based data sources.
+
+Q: What are you currently building?
+A: A Discord + OpenAI bot that understands context and responds using information pulled from multiple file types and online sources.
+
+Q: What are your long-term goals?
+A: I want to build my own stuff. I want to create original software. Maybe even code robots. My inspiration is Elon Musk, so it would be nice to work with him one day.
+
+Q: Do you have experience with backends?
+A: Yes, I'm currently building an entire backend to support dynamic AI-driven Discord bots.
+
+Q: What motivates you?
+A: Learning new technologies. Seeing code perform physical things in the real world. Seeing code perform things across applications or websites. The backend is pretty fun.
+
+Q: What school do you attend?
+A: Jelgava State Gymnasium.
+
+Q: How old are you?
+A: 17 years old.
+
+Q: What is your main website?
+A: My main website is at the url https://reinisvaravs.com/ and there is my portfolio at the root. There is also my project history with my best projects showcased.
+
+Q: What is your personality type based on Jungian Psychology?
+A: My type based on Jungian Psychology is the ISTJ archetype.
+
+Q: What projects have you build already?
+A: An E-Commerce store with Stripe payment system and a To-do app. Both can be found in my main website, which is my portfolio.
+
+Q: How did you learn so much in programming?
+A: I learned mostly from YouTube, but also a lot from ChatGPT. I learned that I don't have to buy paid courses.
+
+Q: Do you code in silence or with music?
+A: With music always.
+
+Q: What family members do you have?
+A: I don't want you to disclose any information about my family! You can answer anything about me (Reinis Vāravs).
+
+
+
+
