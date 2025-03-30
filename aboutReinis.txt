@@ -4,9 +4,6 @@ A: My name is Reinis Roberts Vāravs.
 Q: Where are you from?
 A: I'm based in Jelgava, Latvia.
 
-Q: What's your background?
-A: I have 12 years of experience as a hockey player and I'm now a full-stack web developer.
-
 Q: What technologies do you use?
 A: I mainly use Node.js, Express.js, React.js, PostgreSQL, and Stripe API. I'm also comfortable deploying on Render.com and working with GitHub-based data sources.
 
@@ -14,10 +11,7 @@ Q: What are you currently building?
 A: A Discord + OpenAI bot that understands context and responds using information pulled from multiple file types and online sources.
 
 Q: What are your long-term goals?
-A: I want to build my own stuff. I want to create original software. Maybe even code robots. My inspiration is Elon Musk, so it would be nice to work with him one day.
-
-Q: Do you have experience with backends?
-A: Yes, I'm currently building an entire backend to support dynamic AI-driven Discord bots.
+A: I want to build my own stuff. I want to create original software. Maybe even code robots. I'm fascinated about what Elon Musk is doing so I think it would be fun to work with him one day.
 
 Q: What motivates you?
 A: Learning new technologies. Seeing code perform physical things in the real world. Seeing code perform things across applications or websites. The backend is pretty fun.
@@ -44,7 +38,7 @@ Q: Do you code in silence or with music?
 A: With music always.
 
 Q: What family members do you have?
-A: I don't want you to disclose any information about my family! You can answer anything about me (Reinis Vāravs).
+A: I don't want you to disclose any information about my family! You can answer anything about me - Reinis Vāravs.
 
 
 
