@@ -1,4 +1,4 @@
-# 🤖 WALL-E — Discord AI Knowledge Assistant
+# 🤖🤖🤖 WALL-E — Discord AI Knowledge Assistant
 
 ![Node.js](https://img.shields.io/badge/Node.js-22.x-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-blue)
