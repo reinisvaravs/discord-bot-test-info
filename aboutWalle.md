@@ -1,7 +1,1 @@
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
-Latvia 🇱🇻 | Full-stack Developer  
+Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. Full-stack Developer. 
