@@ -1,53 +1,37 @@
 # 🤖 WALL-E — Discord AI Knowledge Assistant
 
-![Node.js](https://img.shields.io/badge/Node.js-22.x-brightgreen)
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Powered by](https://img.shields.io/badge/Powered_by-GPT_3.5-orange)
-![Status](https://img.shields.io/badge/status-live-success)
-
-WALL-E is an intelligent Discord bot built with Node.js and OpenAI. It answers questions using embedded knowledge from structured documents stored in a GitHub repository. The bot is designed to coach OnlyFans creators using internal training content managed by a company called **Wunder**.
+WALL-E is an intelligent Discord bot built with Node.js and OpenAI. It answers questions using embedded knowledge from structured documents stored in a GitHub repository. The bot is designed to coach OnlyFans creators using internal training content managed by a company called Wunder.
 
 Built for maintainability, transparency, and flexibility.
 
-## 📚 Table of Contents
-
-- [Features](#-features)
-- [File Structure](#-file-structure)
-- [GitHub Integration](#-github-integration)
-- [Getting Started](#-getting-started)
-- [How Knowledge Embedding Works](#-how-knowledge-embedding-works)
-- [Testing](#-testing)
-- [Upcoming Features](#-upcoming-features)
-- [Built With](#-built-with)
-- [Author](#-author)
-- [License](#-license)
+Built by Reinis Vāravs
 
 ---
 
 ## 🚀 Features
 
-- ✅ **Multiformat Knowledge Embedding**  
+- ✅ Multiformat Knowledge Embedding  
   Supports `.txt`, `.md`, `.docx`, `.pdf`, `.xlsx`, `.json`, `.html`, `.htm` `.csv`, `.yaml`, and `.yml`.
 
-- ✅ **Contextual GPT Responses**  
+- ✅ Contextual GPT Responses  
   Uses both user message history and vector-matched content chunks to generate high-quality answers.
 
-- ✅ **GitHub Knowledge Source**
+- ✅ GitHub Knowledge Source
 
   - Automatically fetches & embeds knowledge from a public GitHub repo
   - Supports periodic auto-refresh and manual `!refresh`
 
-- ✅ **Auto-Embedding Optimization**
+- ✅ Auto-Embedding Optimization
 
   - Automatically re-embeds only files that changed (SHA256 hash check)
   - Persistent embedding storage with PostgreSQL + pgvector
 
-- ✅ **Memory**
+- ✅ Memory
 
   - Keeps up to 5 recent messages in memory for context
   - Does not store long-term history (stateless between restarts)
 
-- ✅ **Admin Controls (prefix-based)**
+- ✅ Admin Controls (prefix-based)
 
   - `!bot on` / `!bot off` — toggle response mode
   - `!refresh` — manually re-embed knowledge from GitHub
@@ -55,14 +39,14 @@ Built for maintainability, transparency, and flexibility.
   - `!files` — show filenames used in the last GPT reply
   - `!change channel to <channelId>` — move WALL-E to a new channel
 
-- ✅ **Custom Personality (System Prompt)**
+- ✅ Custom Personality (System Prompt)
 
   - Conversational tone
   - Does not act like a model or support bot
   - Follows strict coaching role rules
   - Supports edgy humor, sarcasm, and relaxed chat
 
-- ✅ **Web API Access**  
+- ✅ Web API Access  
   `/send-remote` endpoint lets you send messages to Discord via HTTP (with rate limiting + password)
 
 ---
@@ -134,7 +118,7 @@ DATABASE_URL=postgres://username:password@host:port/db
 REMOTE_PASSWORD=your_custom_remote_password
 ```
 
-> ⚠️ **Important:** Do not commit `.env` to GitHub. Add it to `.gitignore`.
+> ⚠️ Important: Do not commit `.env` to GitHub. Add it to `.gitignore`.
 
 ### 4. Start the bot
 
@@ -185,7 +169,7 @@ npm start
 
 ## 🧠 Author
 
-**Reinis Roberts Vāravs**  
+Reinis Roberts Vāravs  
 Latvia 🇱🇻 | Full-stack Developer  
 🌐 [Portfolio site](https://reinisvaravs.com)
 🔗 [GitHub](https://github.com/reinisvaravs)
